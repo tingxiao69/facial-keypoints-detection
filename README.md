@@ -4,8 +4,9 @@
     - analysing facial expressions
     - detecting dysmorphic facial signs for medical diagnosis
     - biometrics / face recognition
+ - Detecing facial keypoints is a very challenging problem.  Facial features vary greatly from one individual to another, and even for a single individual, there is a large amount of variation due to 3D pose, size, position, viewing angle, and illumination conditions. Computer vision research has come a long way in addressing these difficulties, but there remain many opportunities for improvement.
 
-# Dataset Description
+# Dataset Description & Acknowledgement
  - Dataset is from a kaggle competition - Facial Keypoints Detection
      - The dataset is provided by [ Dr. Yoshua Bengio](https://yoshuabengio.org/) from the University of Montreal.
      - The dataset contains images of faces and their corresponding keypoints

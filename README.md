@@ -6,6 +6,12 @@
     - biometrics / face recognition
  - Detecing facial keypoints is a very challenging problem.  Facial features vary greatly from one individual to another, and even for a single individual, there is a large amount of variation due to 3D pose, size, position, viewing angle, and illumination conditions. Computer vision research has come a long way in addressing these difficulties, but there remain many opportunities for improvement.
 
+# Check out the current development of the Project
+ - The project is still developing - Nothing is finalised yet
+ - Download/clone the project
+ - Unzip train.zip and test.zip to the current direcotory
+ - Checkout the main.ipynb for all related code
+
 # Dataset Description & Acknowledgement
  - Dataset is from a kaggle competition - Facial Keypoints Detection
      - The dataset is provided by [ Dr. Yoshua Bengio](https://yoshuabengio.org/) from the University of Montreal.
